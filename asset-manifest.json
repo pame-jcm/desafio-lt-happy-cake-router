@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-happy-cake-router/static/css/main.d50526cf.css",
+    "main.js": "/desafio-lt-happy-cake-router/static/js/main.f78482c7.js",
+    "static/media/404-error-page-not-found.jpg": "/desafio-lt-happy-cake-router/static/media/404-error-page-not-found.09db65b37bf3f2bb4e2f.jpg",
+    "index.html": "/desafio-lt-happy-cake-router/index.html",
+    "main.d50526cf.css.map": "/desafio-lt-happy-cake-router/static/css/main.d50526cf.css.map",
+    "main.f78482c7.js.map": "/desafio-lt-happy-cake-router/static/js/main.f78482c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50526cf.css",
+    "static/js/main.f78482c7.js"
+  ]
+}
